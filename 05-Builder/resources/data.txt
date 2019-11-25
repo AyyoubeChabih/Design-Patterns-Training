@@ -1,0 +1,5 @@
+5,Builder,Creational
+4,Abstract Factory,Creational
+13,Chain of Responsibility,Behavioral
+12,Proxy,Structural
+7,Bridge,Structural
